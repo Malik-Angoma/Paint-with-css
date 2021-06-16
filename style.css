@@ -1,0 +1,29 @@
+h1 {
+  /* make the background-color the color of the sky */
+  background-color: skyblue;
+}
+
+h2 {
+  /* make the background-color your favorite color */
+  background-color: green;
+}
+
+h3 {
+  /* make the background-color tomato and change the color property to make the text white */
+  background-color: tomato;
+  color: white;
+}
+
+p {
+  /* change any properties you want try: width, height, font-size, line-height, margin-top google some new ones too! */
+  width: 650;
+  height: 110;
+  font-size: 77;
+  margin-left: 400;
+  letter-spacing: 1;
+  text-decoration: line-through;
+  text-decoration: overline;
+  text-decoration: underline;
+  font-family: 'Times New Roman';
+
+}
