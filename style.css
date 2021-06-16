@@ -16,11 +16,11 @@ h3 {
 
 p {
   /* change any properties you want try: width, height, font-size, line-height, margin-top google some new ones too! */
-  width: 650;
-  height: 110;
-  font-size: 77;
-  margin-left: 400;
-  letter-spacing: 1;
+  width: 650px;
+  height: 110px;
+  font-size: 77px;
+  margin-left: 400px;
+  letter-spacing: 1px;
   text-decoration: line-through;
   text-decoration: overline;
   text-decoration: underline;
